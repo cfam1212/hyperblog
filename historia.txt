@@ -1,2 +1,4 @@
 ESta es un prueba de lo que puede pasar con git
 en e tiempo del curso vamos a ver que se optione
+
+hablaremos de su vida
