@@ -47,6 +47,11 @@ body
 
 }
 
+#post
+{
+    background: white;
+}
+
 #footer
 {
     background: #777;
