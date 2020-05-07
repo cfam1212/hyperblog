@@ -11,6 +11,7 @@ Quiero aprender lo siguiente:
 - Programar con PHP
 - Programar con Javascript
 - Programar con Jquery
+- Creado por mi
 
 Finalmente cogiendo otros cursos apredí xamarin, he realizado un proyecto completo
 de este me faltaría agregar la firma para que el proyecto quede finalizado
